@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning DataScience (ML)
 - 💞️ I’m looking to collaborate on AI dev
-- 📫 How to reach me syavolpro@gmail.com
+- 📫 How to reach me stavolpro@gmail.com
 - ⚡ Fun fact: Got into development at 20 and didn't start until 30. o_O
 
 <!---
