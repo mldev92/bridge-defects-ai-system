@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mldev92
-- 👀 I’m interested in AI
+- 👀 I’m interested in DataScience, MAchine Learning and AI
 - 🌱 I’m currently learning DataScience (ML)
 - 💞️ I’m looking to collaborate on AI dev
 - 📫 How to reach me stavolpro@gmail.com
