@@ -1,0 +1,7 @@
+streamlit~=1.37.1
+pytorch~=2.3.0
+ultralytics~=8.2.88
+torchvision~=0.18.1
+opencv-python~=4.10.0.84
+moviepy~=1.0.3
+numpy~=1.26.4
